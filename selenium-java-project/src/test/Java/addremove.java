@@ -62,7 +62,7 @@ WebDriver driver = new ChromeDriver(options);
         int aftercount=afterarray.size();
         if(aftercount==beforecount-1)
         {
-            System.out.println("delete function is working properly");
+            System.out.println("delete function is  woworking properly");
         }
         else
         {
@@ -81,3 +81,4 @@ addremove ad=new addremove();
 ad.add();
 }
 }
+
