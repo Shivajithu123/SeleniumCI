@@ -41,7 +41,6 @@ jobs:
 
       # Step 5: Run Selenium tests
       - name: Run Selenium Tests
-        working-directory: java-selenium-project
         run: mvn clean test
 
       # Step 6: Upload TestNG reports (optional)
