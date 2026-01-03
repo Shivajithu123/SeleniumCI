@@ -66,7 +66,7 @@ WebDriver driver = new ChromeDriver(options);
         }
         else
         {
-            System.out.println("delete function is not working properly");
+            System.out.println("delete function is not kjghjk working properly");
         }
         System.out.println(beforecount);
         System.out.println(aftercount);
@@ -81,4 +81,5 @@ addremove ad=new addremove();
 ad.add();
 }
 }
+
 
